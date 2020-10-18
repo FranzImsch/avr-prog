@@ -26,7 +26,6 @@ Features are:
 |R4       |10KΩ Resistor         |0603                   |
 |R6, R7   |5K1 Resistor          |0402                   |
 |R8       |10K Resistor          |0402                   |
-|TP1      |PTR1B1,27             |B1,27                  |
 |U$1      |USB-C Connector       |TYPE-C16PIN            |
 |U$2      |TLV75533PDBVR         |SOT23-5                |
 |U$3      |SRV05-4-P-T7          |SOT23-6                |
